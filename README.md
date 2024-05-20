@@ -37,3 +37,4 @@ Je suis Bonin-Alexandre, un développeur français orienté Front-end.
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-yellow?style=for-the-badge&logo=google-analytics)
